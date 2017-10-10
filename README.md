@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/jlbeard84/rails-microblog.svg?branch=master)](https://travis-ci.org/jlbeard84/rails-microblog)
 
-Sample rails microblog app.
+Simple rails microblog app.
 
 ## Getting Started
 
@@ -15,3 +15,7 @@ Sample rails microblog app.
 ## Serve
 
     $ rails serve
+    
+## Thanks To
+
+The initial base of this code comes from [railstutorial.org](http://www.railstutorial.org) with additional modifications.
